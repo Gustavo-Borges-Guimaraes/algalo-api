@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e970a916-adbf-4d61-8e53-b5629ccb101c" name="Changes" comment="" />
+    <list default="true" id="e970a916-adbf-4d61-8e53-b5629ccb101c" name="Changes" comment="Projeto desenvolvido durante estudo sobre Java Spring REACT." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +154,8 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/../../MeusProjetosGit" />
     </ignored-roots>
+    <MESSAGE value="Projeto desenvolvido durante estudo sobre Java Spring REACT." />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto desenvolvido durante estudo sobre Java Spring REACT." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
